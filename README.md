@@ -1,4 +1,5 @@
 # flutter_pizza_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Simple application to buy pizza, of course it's just for my trial.
+>>>>>>> ce4a92edb1cb44a791bf739220743c111133453e
